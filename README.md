@@ -50,9 +50,9 @@
 В чек-листе должны быть результаты выполнения тестов и заведённые баг-репорты.
 <hr>
 
-[Ссылка на google disk] (https:// )
+[Чек-листы, тест-кейсы](https://drive.google.com/drive/folders/1h36nFTn7poj9UMMtCrI5dkBr1c_m9xgL?usp=sharing)
 
-[Ссылка на баг-репорты] (https:// )
+[Баг-репорты](https://pavangelika.youtrack.cloud/projects/0-1?isNew=default)
 
 [mindmap](https://mm.tt/app/map/2838753385?t=R1RnBiG82P)
 
