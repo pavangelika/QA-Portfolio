@@ -53,3 +53,6 @@
 [Ссылка на google disk] (https:// )
 
 [Ссылка на баг-репорты] (https:// )
+
+[Ссылка на mindmap] ([https:// ](https://mm.tt/app/map/2838753385?t=R1RnBiG82P)https://mm.tt/app/map/2838753385?t=R1RnBiG82P)
+
