@@ -54,5 +54,5 @@
 
 [Ссылка на баг-репорты] (https:// )
 
-[Ссылка на mindmap] (https://mm.tt/app/map/2838753385?t=R1RnBiG82P)
+[Ссылка на mindmap](https://mm.tt/app/map/2838753385?t=R1RnBiG82P)
 
